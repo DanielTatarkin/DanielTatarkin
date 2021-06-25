@@ -4,7 +4,7 @@
 
 ### 📫 Contact Me:
 * danieltatarkin@gmail.com
-* linkedin.com/in/danieltatarkin/
+* [LinkedIn](https://linkedin.com/in/danieltatarkin)
 
 <!--
 **DanielTatarkin/DanielTatarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
