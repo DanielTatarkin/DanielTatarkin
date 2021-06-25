@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Daniel 👋
+
+- I work as a Solutions Architect at AWS
+
+### 📫 Contact Me:
+* danieltatarkin@gmail.com
+* linkedin.com/in/danieltatarkin/
 
 <!--
 **DanielTatarkin/DanielTatarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
