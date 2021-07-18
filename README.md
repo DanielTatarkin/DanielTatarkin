@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel 👋
 
-- I work as a Solutions Architect at AWS
+- I'm a Solutions Architect at AWS
 
 ### 📫 Contact Me:
 * [LinkedIn](https://linkedin.com/in/danieltatarkin)
