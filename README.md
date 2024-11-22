@@ -1,10 +1,10 @@
 ### Hi there, I'm Daniel 👋
 
-- I'm a Software Engineer at Flatiron Health
+- I'm a Software Engineer at Gemini
 
 ### 📫 Contact Me:
 * [LinkedIn](https://linkedin.com/in/danieltatarkin)
-* [danieltatarkin@gmail.com](mailto:danieltatarkin.com)
+
 
 <!--
 **DanielTatarkin/DanielTatarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
